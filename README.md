@@ -95,7 +95,7 @@ Facing the collapse of normal activities, it becomes critical for store owners t
 
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@abhinavvx](https://github.com/abhnvx) 
+-[abhnvx](https://github.com/abhnvx) 
 - [@Nem3sisX](https://github.com/Nem3sisX)
 - [@Arjunbakshi245](https://github.com/Arjunbakshi245)
 - [@sharmasarthak3d](https://github.com/sharmasarthak3d)
